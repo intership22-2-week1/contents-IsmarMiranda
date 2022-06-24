@@ -12,7 +12,14 @@
 * Instalamos Python
 * Instalamos algunas extensiones para visual studio Code
 * Creamos una clave pública y privada por SSH 
-* Creamos una cuenta en Vercel 
+* Creamos una cuenta en Vercel
+
+     :)
+
+
+
+---
+
 
 
 
