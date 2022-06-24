@@ -7,7 +7,7 @@
 
 * ## Tambien hicimos un ejercicio con una clase vehículo
 
-![Imagen de replit](image-replit.png)
+![Imagen de replit](image-replit.PNG)
 
 ---
 
@@ -22,4 +22,4 @@
 
 ### Creamos un script para ejecutar un programa con html, css y crear los directorios así como mostrar la pagina
 
-![Imagen de replit](script-terminal.png)
+![Imagen de replit](script-terminal.PNG)
